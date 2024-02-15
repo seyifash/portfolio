@@ -5,8 +5,11 @@
     box-sizing: border-box;
     font-family: "Outfit", sans-serif;
 }
-body {
+html {
     background: #1a1a1a;
+}
+body {
+   
     overflow-x: hidden;
     position: relative; 
 }
