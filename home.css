@@ -8,8 +8,14 @@
 html {
     background-color: #1a1a1a;
 }
+@viewport {
+    width: device-width;
+    height: device-height;
+    min-zoom: 1;
+    max-zoom: fixed;
+    zoom: 1;
+}
 body {
-   
     overflow-x: hidden;
     position: relative; 
 }
