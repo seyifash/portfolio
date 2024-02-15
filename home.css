@@ -4,17 +4,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Outfit", sans-serif;
-    background: #1a1a1a;
-}
-html {
-    height: 100vh;
-    background: #1a1a1a;
 }
 body {
     background: #1a1a1a;
     overflow-x: hidden;
     position: relative; 
-    height: 100vh;
 }
 h1, h4, p, a {
     color: #fff;
